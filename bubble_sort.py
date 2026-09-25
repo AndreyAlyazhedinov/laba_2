@@ -15,7 +15,6 @@ def bubble_sort(items):
     return arr
 
 
-
 if __name__ == "__main__":
     data = [5, 2, 9, 1, 5, 6]
     print("До сортировки:", data)
