@@ -17,4 +17,3 @@ def plot_square():
 
 if __name__ == "__main__":
     plot_square()
-
